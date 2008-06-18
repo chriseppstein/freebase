@@ -1,0 +1,25 @@
+= Freebase
+This Ruby-on-Rails plugin provides access to the Freebase API (http://www.freebase.com). Freebase is a collaborative, semantic database similar to Wikipedia only for structured data. Freebase.com provides a JSON-over-HTTP API that this library uses.
+
+Currently only reads are implemented. Contributions, API Suggestions, bug reports are welcome!
+
+This code is ALPHA. The API will change, features will be added. It probably has a bug or two in it. Use it at your own peril.
+
+Author:: Christopher Eppstein (mailto:chris@eppsteins.net)
+Copyright:: Copyright (c) 2007 Christopher Eppstein
+License:: Released under the MIT license
+
+== Installation
+Install the plugin:
+script/plugin install svn://rubyforge.org/var/svn/freebaseapi/trunk/freebase
+
+Then copy freebase.yml to your rails config directory
+
+== Usage Examples
+See the following examples:
+* albums.rb[link:../examples/albums.rb]
+
+== Contributors
+* Pat Allan (mailto:pat@freelancing-gods.com) provided code snippets that
+  exemplified automatic freebase class creation when the class is first referenced.
+

@@ -1,0 +1,1684 @@
+{
+  "status": "200 OK", 
+  "code": "/api/status/ok", 
+  "qname": {
+    "code": "/api/status/ok", 
+    "result": {
+      "origin": [], 
+      "artist_similar": [
+        {
+          "type": [
+            "/music/artist", 
+            "/common/topic", 
+            "/music/group_member", 
+            "/music/musical_group"
+          ], 
+          "id": "/topic/en/deerhoof", 
+          "name": "Deerhoof"
+        }
+      ], 
+      "attribution": [
+        {
+          "type": [
+            "/type/user"
+          ], 
+          "id": "/user/metaweb", 
+          "name": "Metaweb"
+        }
+      ], 
+      "key": [
+        {
+          "namespace": "/wikipedia/en_id", 
+          "type": "/type/key", 
+          "value": "505070"
+        }, 
+        {
+          "namespace": "/wikipedia/en", 
+          "type": "/type/key", 
+          "value": "Blonde_Redhead"
+        }, 
+        {
+          "namespace": "/wikipedia/en", 
+          "type": "/type/key", 
+          "value": "Blond_Redhead"
+        }, 
+        {
+          "namespace": "/guid/9202a8c04000641f800000000114342d", 
+          "type": "/type/key", 
+          "value": "6821bf3f-5d5b-4b0f-8fa4-79d2ab2d9219"
+        }, 
+        {
+          "namespace": "/guid/9202a8c04000641f8000000001143432", 
+          "type": "/type/key", 
+          "value": "ARTIST9810"
+        }, 
+        {
+          "namespace": "/topic/en", 
+          "type": "/type/key", 
+          "value": "blonde_redhead"
+        }
+      ], 
+      "creator": [
+        {
+          "type": [
+            "/type/user"
+          ], 
+          "id": "/user/metaweb", 
+          "name": "Metaweb"
+        }
+      ], 
+      "home_page": [
+        {
+          "type": [
+            "/common/webpage"
+          ], 
+          "id": "/guid/9202a8c04000641f8000000003951818", 
+          "name": "Official homepage"
+        }
+      ], 
+      "timestamp": [
+        {
+          "type": "/type/datetime", 
+          "value": "2006-10-22T16:55:40.0048Z"
+        }
+      ], 
+      "active_start": [
+        {
+          "type": "/type/datetime", 
+          "value": "1993"
+        }
+      ], 
+      "acquire_webpage": [], 
+      "label": [], 
+      "track": [
+        {
+          "type": [
+            "/music/track"
+          ], 
+          "id": "/guid/9202a8c04000641f8000000001ae9aad", 
+          "name": "La chanson de Slogan"
+        }, 
+        {
+          "type": [
+            "/music/track"
+          ], 
+          "id": "/guid/9202a8c04000641f8000000001eadcbc", 
+          "name": "For the Damaged"
+        }, 
+        {
+          "type": [
+            "/music/track"
+          ], 
+          "id": "/guid/9202a8c04000641f800000000216916e", 
+          "name": "Jetstar"
+        }, 
+        {
+          "type": [
+            "/music/track"
+          ], 
+          "id": "/guid/9202a8c04000641f80000000025f6149", 
+          "name": "Distilled"
+        }, 
+        {
+          "type": [
+            "/music/track"
+          ], 
+          "id": "/guid/9202a8c04000641f8000000002710b71", 
+          "name": "Father"
+        }, 
+        {
+          "type": [
+            "/music/track"
+          ], 
+          "id": "/guid/9202a8c04000641f800000000285c8ea", 
+          "name": "Magic Mountain"
+        }
+      ], 
+      "album": [
+        {
+          "track": [
+            {
+              "length": 305.32, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000143c69a", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "I Don't Want U"
+              }
+            }, 
+            {
+              "length": 204.266, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000143c6a1", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Sciuri Sciura"
+              }
+            }, 
+            {
+              "length": 261.453, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000143c6a8", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Astro Boy"
+              }
+            }, 
+            {
+              "length": 239.48, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000143c6af", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Without Feathers"
+              }
+            }, 
+            {
+              "length": 184.466, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000143c6b6", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Snippet"
+              }
+            }, 
+            {
+              "length": 204.293, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000143c6bd", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Mama Cita"
+              }
+            }, 
+            {
+              "length": 257.12, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000143c6c4", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Swing Pool"
+              }
+            }, 
+            {
+              "length": 108.333, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000143c6cb", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Girl Boy"
+              }
+            }
+          ], 
+          "release_date": "1995-01-19", 
+          "type": [
+            "/music/album", 
+            "/common/topic"
+          ], 
+          "id": "/guid/9202a8c04000641f800000000315fb9b", 
+          "name": {
+            "lang": {
+              "type": "/type/lang", 
+              "name": "English"
+            }, 
+            "type": "/type/text", 
+            "value": "Blonde Redhead"
+          }
+        }, 
+        {
+          "track": [
+            {
+              "length": 220.666, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000012af5ed", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "(I Am Taking Out My Eurotrash) I Still Get Rocks Off"
+              }
+            }, 
+            {
+              "length": 231.133, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000012af5f4", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Violent Life"
+              }
+            }, 
+            {
+              "length": 338.266, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000012af5fb", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "U.F.O."
+              }
+            }, 
+            {
+              "length": 116.866, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000012af602", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "I Am There While You Choke On Me"
+              }
+            }, 
+            {
+              "length": 316.066, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000012af609", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Harmony"
+              }
+            }, 
+            {
+              "length": 249.133, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000012af610", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Down Under"
+              }
+            }, 
+            {
+              "length": 277.626, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000012af617", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Bean"
+              }
+            }, 
+            {
+              "length": 72.706, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000012af61e", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Young Neil"
+              }
+            }, 
+            {
+              "length": 278.96, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000012af625", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "10 Feet High"
+              }
+            }, 
+            {
+              "length": 202.44, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000012af62c", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Jewel"
+              }
+            }
+          ], 
+          "release_date": "1995-09-04", 
+          "type": [
+            "/music/album", 
+            "/common/topic"
+          ], 
+          "id": "/topic/en/la_mia_vita_violenta", 
+          "name": {
+            "lang": {
+              "type": "/type/lang", 
+              "name": "English"
+            }, 
+            "type": "/type/text", 
+            "value": "La Mia Vita Violenta"
+          }
+        }, 
+        {
+          "track": [
+            {
+              "length": 265.733, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000013631f6", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Kazuality"
+              }
+            }, 
+            {
+              "length": 282.133, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001363204", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Water"
+              }
+            }, 
+            {
+              "length": 252.426, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000136320b", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Ego Maniac Kid"
+              }
+            }, 
+            {
+              "length": 302.466, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001363212", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Bipolar"
+              }
+            }, 
+            {
+              "length": 338.0, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001363219", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Pier Paolo"
+              }
+            }, 
+            {
+              "length": 212.973, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001363220", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Oh James"
+              }
+            }, 
+            {
+              "length": 304.666, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001363227", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Futurism vs. Passéism"
+              }
+            }, 
+            {
+              "length": 250.746, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000028319dc", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Symphony of Treble"
+              }
+            }
+          ], 
+          "release_date": "1997-03-11", 
+          "type": [
+            "/music/album", 
+            "/common/topic"
+          ], 
+          "id": "/guid/9202a8c04000641f800000000315fa8e", 
+          "name": {
+            "lang": {
+              "type": "/type/lang", 
+              "name": "English"
+            }, 
+            "type": "/type/text", 
+            "value": "Fake Can Be Just as Good"
+          }
+        }, 
+        {
+          "track": [
+            {
+              "length": 219.96, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000015fc66f", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Luv Machine"
+              }
+            }, 
+            {
+              "length": 239.333, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000015fc676", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "10"
+              }
+            }, 
+            {
+              "length": 209.533, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000015fc67d", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Distilled"
+              }
+            }, 
+            {
+              "length": 193.106, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000015fc684", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Missile ++"
+              }
+            }, 
+            {
+              "length": 244.226, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000015fc68b", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Futurism vs. Passeism, Part 2"
+              }
+            }, 
+            {
+              "length": 234.4, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000015fc692", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Speed x Distance = Time"
+              }
+            }, 
+            {
+              "length": 369.4, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000015fc699", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "In an Expression of the Inexpressible"
+              }
+            }, 
+            {
+              "length": 194.106, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000015fc6a0", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Suimasen"
+              }
+            }, 
+            {
+              "length": 315.866, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000015fc6a7", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Led Zep"
+              }
+            }, 
+            {
+              "length": 179.426, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000015fc6ae", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "This Is for Me and I Know Everyone Knows"
+              }
+            }, 
+            {
+              "length": 173.773, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000015fc6b5", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Justin Joyous"
+              }
+            }
+          ], 
+          "release_date": "1998-09-08", 
+          "type": [
+            "/music/album", 
+            "/common/topic"
+          ], 
+          "id": "/guid/9202a8c04000641f800000000315faaa", 
+          "name": {
+            "lang": {
+              "type": "/type/lang", 
+              "name": "English"
+            }, 
+            "type": "/type/text", 
+            "value": "In an Expression of the Inexpressible"
+          }
+        }, 
+        {
+          "track": [
+            {
+              "length": 40.2, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000126a077", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Equally Damaged"
+              }
+            }, 
+            {
+              "length": 365.533, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000126a07e", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "In Particular"
+              }
+            }, 
+            {
+              "length": 233.36, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000126a085", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Melody of Certain Three"
+              }
+            }, 
+            {
+              "length": 282.733, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000126a08c", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Hated Because of Great Qualities"
+              }
+            }, 
+            {
+              "length": 252.64, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000126a093", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Loved Despite of Great Faults"
+              }
+            }, 
+            {
+              "length": 114.133, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000126a09a", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Ballad of Lemons"
+              }
+            }, 
+            {
+              "length": 290.36, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000126a0a1", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "This Is Not"
+              }
+            }, 
+            {
+              "length": 323.24, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000126a0a8", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "A Cure"
+              }
+            }, 
+            {
+              "length": 128.293, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000126a0b6", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Mother"
+              }
+            }, 
+            {
+              "length": 157.306, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000126a0bd", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "For the Damaged Coda"
+              }
+            }, 
+            {
+              "length": 177.6, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001eadcbc", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "For the Damaged"
+              }
+            }
+          ], 
+          "release_date": "2000-06-06", 
+          "type": [
+            "/music/album", 
+            "/common/topic"
+          ], 
+          "id": "/guid/9202a8c04000641f800000000315fb39", 
+          "name": {
+            "lang": {
+              "type": "/type/lang", 
+              "name": "English"
+            }, 
+            "type": "/type/text", 
+            "value": "Melody of Certain Damaged Lemons"
+          }
+        }, 
+        {
+          "track": [
+            {
+              "length": 248.0, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000172a7bc", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "En Particulier"
+              }
+            }, 
+            {
+              "length": 284.066, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000172a7c3", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Odiata Per le Sue Virtú"
+              }
+            }, 
+            {
+              "length": 218.493, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000172a7ca", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Chi é E Non É"
+              }
+            }, 
+            {
+              "length": 232.4, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000172a7d1", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Slogan"
+              }
+            }, 
+            {
+              "length": 311.04, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000172a7d8", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Four Damaged Lemons"
+              }
+            }
+          ], 
+          "release_date": "2000-10-03", 
+          "type": [
+            "/music/album", 
+            "/common/topic"
+          ], 
+          "id": "/guid/9202a8c04000641f800000000315fad6", 
+          "name": {
+            "lang": {
+              "type": "/type/lang", 
+              "name": "English"
+            }, 
+            "type": "/type/text", 
+            "value": "Mélodie Citronique"
+          }
+        }, 
+        {
+          "track": [
+            {
+              "length": 0.0, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001a7afbc", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Elephant Woman"
+              }
+            }, 
+            {
+              "length": 0.0, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001a7afc3", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Misery (Wicked version)"
+              }
+            }, 
+            {
+              "length": 0.0, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001a7afca", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Tons Confession"
+              }
+            }
+          ], 
+          "release_date": "2004-02-23", 
+          "type": [
+            "/music/album", 
+            "/common/topic"
+          ], 
+          "id": "/guid/9202a8c04000641f800000000315fb59", 
+          "name": {
+            "lang": {
+              "type": "/type/lang", 
+              "name": "English"
+            }, 
+            "type": "/type/text", 
+            "value": "Elephant Woman"
+          }
+        }, 
+        {
+          "track": [
+            {
+              "length": 289.333, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001a3deae", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Elephant Woman"
+              }
+            }, 
+            {
+              "length": 201.826, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001a3deb5", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Messenger"
+              }
+            }, 
+            {
+              "length": 276.6, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001a3debc", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Melody"
+              }
+            }, 
+            {
+              "length": 186.4, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001a3dec3", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Doll Is Mine"
+              }
+            }, 
+            {
+              "length": 307.666, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001a3deca", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Misery Is a Butterfly"
+              }
+            }, 
+            {
+              "length": 206.8, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001a3ded1", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Falling Man"
+              }
+            }, 
+            {
+              "length": 244.533, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001a3ded8", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Anticipation"
+              }
+            }, 
+            {
+              "length": 200.306, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001a3dedf", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Maddening Cloud"
+              }
+            }, 
+            {
+              "length": 373.2, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001a3deed", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Pink Love"
+              }
+            }, 
+            {
+              "length": 231.893, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000024235d7", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Equus"
+              }
+            }, 
+            {
+              "length": 184.427, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000285c8ea", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Magic Mountain"
+              }
+            }
+          ], 
+          "release_date": "2004-03-23", 
+          "type": [
+            "/music/album", 
+            "/common/topic"
+          ], 
+          "id": "/topic/en/misery_is_a_butterfly", 
+          "name": {
+            "lang": {
+              "type": "/type/lang", 
+              "name": "English"
+            }, 
+            "type": "/type/text", 
+            "value": "Misery Is a Butterfly"
+          }
+        }, 
+        {
+          "track": [
+            {
+              "length": 231.893, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000024235d7", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Equus"
+              }
+            }, 
+            {
+              "length": 203.2, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000024235de", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Messenger (feat. David Sylvian)"
+              }
+            }, 
+            {
+              "length": 429.52, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f80000000024235e5", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Melody (French version)"
+              }
+            }
+          ], 
+          "release_date": "2004-07-12", 
+          "type": [
+            "/music/album", 
+            "/common/topic"
+          ], 
+          "id": "/guid/9202a8c04000641f800000000315fb8c", 
+          "name": {
+            "lang": {
+              "type": "/type/lang", 
+              "name": "English"
+            }, 
+            "type": "/type/text", 
+            "value": "Equus"
+          }
+        }, 
+        {
+          "track": [
+            {
+              "length": 0.0, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000208a9fe", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Messenger (feat. David Sylvian)"
+              }
+            }, 
+            {
+              "length": 0.0, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000208aa05", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Tons Confession"
+              }
+            }, 
+            {
+              "length": 0.0, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000208aa0c", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Melody (French version)"
+              }
+            }, 
+            {
+              "length": 0.0, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f800000000208aa13", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Misery (Wicked version)"
+              }
+            }
+          ], 
+          "release_date": "2005-01-25", 
+          "type": [
+            "/music/album", 
+            "/common/topic"
+          ], 
+          "id": "/guid/9202a8c04000641f800000000315fb28", 
+          "name": {
+            "lang": {
+              "type": "/type/lang", 
+              "name": "English"
+            }, 
+            "type": "/type/text", 
+            "value": "The Secret Society of Butterflies"
+          }
+        }, 
+        {
+          "track": [
+            {
+              "length": 0.0, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001ae8aa7", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Flying Douglas"
+              }
+            }, 
+            {
+              "length": 0.0, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001ae8aae", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Harmony"
+              }
+            }
+          ], 
+          "release_date": null, 
+          "type": [
+            "/music/album", 
+            "/common/topic"
+          ], 
+          "id": "/guid/9202a8c04000641f800000000315fb74", 
+          "name": {
+            "lang": {
+              "type": "/type/lang", 
+              "name": "English"
+            }, 
+            "type": "/type/text", 
+            "value": "Flying Douglas / Harmony"
+          }
+        }, 
+        {
+          "track": [
+            {
+              "length": 0.0, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001ae8b25", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Slogan"
+              }
+            }, 
+            {
+              "length": 0.0, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001ae8b2c", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Limited Conversation"
+              }
+            }
+          ], 
+          "release_date": null, 
+          "type": [
+            "/music/album", 
+            "/common/topic"
+          ], 
+          "id": "/guid/9202a8c04000641f800000000315faca", 
+          "name": {
+            "lang": {
+              "type": "/type/lang", 
+              "name": "English"
+            }, 
+            "type": "/type/text", 
+            "value": "Slogan / Limited Conversation (7\")"
+          }
+        }, 
+        {
+          "track": [
+            {
+              "length": 197.0, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001ae8a99", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Ten Feet High"
+              }
+            }, 
+            {
+              "length": 254.0, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001ae8aa0", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Valentine"
+              }
+            }
+          ], 
+          "release_date": null, 
+          "type": [
+            "/music/album", 
+            "/common/topic"
+          ], 
+          "id": "/guid/9202a8c04000641f800000000315fb68", 
+          "name": {
+            "lang": {
+              "type": "/type/lang", 
+              "name": "English"
+            }, 
+            "type": "/type/text", 
+            "value": "Ten Feet High / Valentine (7\")"
+          }
+        }, 
+        {
+          "track": [
+            {
+              "length": 0.0, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001ae8a8b", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Vague"
+              }
+            }, 
+            {
+              "length": 0.0, 
+              "type": [
+                "/music/track"
+              ], 
+              "id": "/guid/9202a8c04000641f8000000001ae8a92", 
+              "name": {
+                "lang": {
+                  "type": "/type/lang", 
+                  "name": "English"
+                }, 
+                "type": "/type/text", 
+                "value": "Jetstar"
+              }
+            }
+          ], 
+          "release_date": null, 
+          "type": [
+            "/music/album", 
+            "/common/topic"
+          ], 
+          "id": "/guid/9202a8c04000641f800000000315fb80", 
+          "name": {
+            "lang": {
+              "type": "/type/lang", 
+              "name": "English"
+            }, 
+            "type": "/type/text", 
+            "value": "Vague / Jetstar (7\")"
+          }
+        }
+      ], 
+      "similar_artist": [], 
+      "genre": [
+        {
+          "type": [
+            "/common/topic", 
+            "/music/genre", 
+            "/user/cotton/default_domain/broadcast_genre"
+          ], 
+          "id": "/topic/en/alternative_rock", 
+          "name": "Alternative rock"
+        }, 
+        {
+          "type": [
+            "/common/topic", 
+            "/music/genre"
+          ], 
+          "id": "/topic/en/indie_rock", 
+          "name": "Indie rock"
+        }, 
+        {
+          "type": [
+            "/common/topic", 
+            "/music/genre", 
+            "/user/cotton/default_domain/broadcast_genre"
+          ], 
+          "id": "/topic/en/rock_music", 
+          "name": "Rock music"
+        }
+      ], 
+      "contribution": [], 
+      "permission": [
+        {
+          "type": [
+            "/type/permission"
+          ], 
+          "id": "/boot/all_permission", 
+          "name": "Global Write Permission"
+        }
+      ], 
+      "guid": [
+        {
+          "type": "/type/id", 
+          "value": "#9202a8c04000641f8000000000283875"
+        }
+      ], 
+      "type": "/music/artist", 
+      "id": [
+        {
+          "type": "/type/id", 
+          "value": "/topic/en/blonde_redhead"
+        }
+      ], 
+      "active_end": [], 
+      "name": {
+        "lang": {
+          "type": "/type/lang", 
+          "name": "English"
+        }, 
+        "type": "/type/text", 
+        "value": "Blonde Redhead"
+      }
+    }
+  }
+}

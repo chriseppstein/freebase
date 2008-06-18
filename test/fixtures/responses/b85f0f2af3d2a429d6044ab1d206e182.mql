@@ -1,0 +1,109 @@
+{
+  "status": "200 OK", 
+  "code": "/api/status/ok", 
+  "qname": {
+    "code": "/api/status/ok", 
+    "result": {
+      "type": "/type/type", 
+      "id": "/music/album", 
+      "properties": [
+        {
+          "expected_type": "/music/artist", 
+          "type": "/type/property", 
+          "id": "/music/album/artist", 
+          "name": "Artist"
+        }, 
+        {
+          "expected_type": "/type/datetime", 
+          "type": "/type/property", 
+          "id": "/music/album/release_date", 
+          "name": "Release Date"
+        }, 
+        {
+          "expected_type": "/music/album_release_type", 
+          "type": "/type/property", 
+          "id": "/music/album/release_type", 
+          "name": "Release type"
+        }, 
+        {
+          "expected_type": "/type/float", 
+          "type": "/type/property", 
+          "id": "/music/album/length", 
+          "name": "Running Time"
+        }, 
+        {
+          "expected_type": "/music/genre", 
+          "type": "/type/property", 
+          "id": "/music/album/genre", 
+          "name": "Genre"
+        }, 
+        {
+          "expected_type": "/music/record_label", 
+          "type": "/type/property", 
+          "id": "/music/album/label", 
+          "name": "Label"
+        }, 
+        {
+          "expected_type": "/music/producer", 
+          "type": "/type/property", 
+          "id": "/music/album/producer", 
+          "name": "Producer"
+        }, 
+        {
+          "expected_type": "/common/webpage", 
+          "type": "/type/property", 
+          "id": "/music/album/acquire_webpage", 
+          "name": "Buy or download Web page"
+        }, 
+        {
+          "expected_type": "/music/track", 
+          "type": "/type/property", 
+          "id": "/music/album/track", 
+          "name": "Tracks"
+        }, 
+        {
+          "expected_type": "/music/recording_contribution", 
+          "type": "/type/property", 
+          "id": "/music/album/contributor", 
+          "name": "Contributions"
+        }, 
+        {
+          "expected_type": "/music/album", 
+          "type": "/type/property", 
+          "id": "/music/album/preceeds", 
+          "name": "Next Release"
+        }, 
+        {
+          "expected_type": "/music/album", 
+          "type": "/type/property", 
+          "id": "/music/album/follows", 
+          "name": "Previous Release"
+        }, 
+        {
+          "expected_type": "/music/release", 
+          "type": "/type/property", 
+          "id": "/music/album/releases", 
+          "name": "Releases"
+        }, 
+        {
+          "expected_type": "/people/person", 
+          "type": "/type/property", 
+          "id": "/music/album/engineer", 
+          "name": "Engineer"
+        }, 
+        {
+          "expected_type": "/music/composition", 
+          "type": "/type/property", 
+          "id": "/music/album/compositions", 
+          "name": "Compositions"
+        }, 
+        {
+          "expected_type": "/media_common/pseudonym", 
+          "type": "/type/property", 
+          "id": "/music/album/released_by_pseudonym", 
+          "name": "Released by Pseudonym"
+        }
+      ]
+    }
+  }
+}

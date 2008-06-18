@@ -1,0 +1,85 @@
+{
+  "status": "200 OK", 
+  "code": "/api/status/ok", 
+  "qname": {
+    "code": "/api/status/ok", 
+    "result": {
+      "type": "/type/type", 
+      "id": "/music/artist", 
+      "properties": [
+        {
+          "expected_type": "/location/location", 
+          "type": "/type/property", 
+          "id": "/music/artist/origin", 
+          "name": "Origin of Musical Career"
+        }, 
+        {
+          "expected_type": "/type/datetime", 
+          "type": "/type/property", 
+          "id": "/music/artist/active_start", 
+          "name": "Active as Musical Artist (start)"
+        }, 
+        {
+          "expected_type": "/type/datetime", 
+          "type": "/type/property", 
+          "id": "/music/artist/active_end", 
+          "name": "Active as Musical Artist (end)"
+        }, 
+        {
+          "expected_type": "/music/genre", 
+          "type": "/type/property", 
+          "id": "/music/artist/genre", 
+          "name": "Musical Genres"
+        }, 
+        {
+          "expected_type": "/music/record_label", 
+          "type": "/type/property", 
+          "id": "/music/artist/label", 
+          "name": "Record Labels"
+        }, 
+        {
+          "expected_type": "/music/artist", 
+          "type": "/type/property", 
+          "id": "/music/artist/similar_artist", 
+          "name": "Similar Artists"
+        }, 
+        {
+          "expected_type": "/common/webpage", 
+          "type": "/type/property", 
+          "id": "/music/artist/home_page", 
+          "name": "Musical Artist Home Page"
+        }, 
+        {
+          "expected_type": "/common/webpage", 
+          "type": "/type/property", 
+          "id": "/music/artist/acquire_webpage", 
+          "name": "Web Page for Music"
+        }, 
+        {
+          "expected_type": "/music/album", 
+          "type": "/type/property", 
+          "id": "/music/artist/album", 
+          "name": "Albums"
+        }, 
+        {
+          "expected_type": "/music/recording_contribution", 
+          "type": "/type/property", 
+          "id": "/music/artist/contribution", 
+          "name": "Album Contributions"
+        }, 
+        {
+          "expected_type": "/music/track", 
+          "type": "/type/property", 
+          "id": "/music/artist/track", 
+          "name": "Songs"
+        }, 
+        {
+          "expected_type": "/music/artist", 
+          "type": "/type/property", 
+          "id": "/music/artist/artist_similar", 
+          "name": "Similar Musical Artists"
+        }
+      ]
+    }
+  }
+}

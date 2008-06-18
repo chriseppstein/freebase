@@ -1,0 +1,55 @@
+{
+  "status": "200 OK", 
+  "code": "/api/status/ok", 
+  "qname": {
+    "code": "/api/status/ok", 
+    "result": {
+      "type": "/type/type", 
+      "id": "/type/property", 
+      "properties": [
+        {
+          "expected_type": "/type/type", 
+          "type": "/type/property", 
+          "id": "/type/property/expected_type", 
+          "name": "expected_type"
+        }, 
+        {
+          "expected_type": "/type/property", 
+          "type": "/type/property", 
+          "id": "/type/property/master_property", 
+          "name": "master_property"
+        }, 
+        {
+          "expected_type": "/type/boolean", 
+          "type": "/type/property", 
+          "id": "/type/property/unique", 
+          "name": "unique"
+        }, 
+        {
+          "expected_type": "/type/property", 
+          "type": "/type/property", 
+          "id": "/type/property/reverse_property", 
+          "name": "reverse_property"
+        }, 
+        {
+          "expected_type": "/type/type", 
+          "type": "/type/property", 
+          "id": "/type/property/schema", 
+          "name": "schema"
+        }, 
+        {
+          "expected_type": "/type/unit", 
+          "type": "/type/property", 
+          "id": "/type/property/unit", 
+          "name": "Unit"
+        }, 
+        {
+          "expected_type": "/type/namespace", 
+          "type": "/type/property", 
+          "id": "/type/property/enumeration", 
+          "name": "enumeration"
+        }
+      ]
+    }
+  }
+}

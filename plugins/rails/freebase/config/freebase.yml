@@ -1,0 +1,12 @@
+development:
+  host: sandbox.freebase.com
+  debug: true
+  trace: false
+test:
+  host: sandbox.freebase.com
+  debug: true
+  trace: false
+production:
+  host: freebase.com
+  debug: false
+  trace: false
