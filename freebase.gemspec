@@ -1,11 +1,7 @@
 require 'rake'
 require 'rubygems'
-Gem::manage_gems
-require 'rake/gempackagetask'
-require 'rake/testtask'
-require 'rake/rdoctask'
 
-spec = Gem::Specification.new do |s| 
+FREEBASE_GEMSPEC = Gem::Specification.new do |s| 
   s.name = "freebase"
   s.version = "0.0.1"
   s.author = "Chris Eppstein"
@@ -22,27 +18,4 @@ spec = Gem::Specification.new do |s|
   s.extra_rdoc_files = ["README"]
   s.add_dependency("activesupport", ">= 1.2.5")
   s.add_dependency("json", ">= 1.1.2")
-end
- 
-Rake::GemPackageTask.new(spec) do |pkg| 
-  pkg.need_tar = true 
-end
-
-desc 'Default: run unit tests.'
-task :default => :test
-
-desc 'Test the freebase plugin.'
-Rake::TestTask.new(:test) do |t|
-  t.libs << 'lib'
-  t.pattern = 'test/**/*_test.rb'
-  t.verbose = true
-end
-
-desc 'Generate documentation for the freebase plugin.'
-Rake::RDocTask.new(:rdoc) do |rdoc|
-  rdoc.rdoc_dir = 'rdoc'
-  rdoc.title    = 'Freebase'
-  rdoc.options << '--line-numbers' << '--inline-source'
-  rdoc.rdoc_files.include('README')
-  rdoc.rdoc_files.include('lib/**/*.rb')
 end
